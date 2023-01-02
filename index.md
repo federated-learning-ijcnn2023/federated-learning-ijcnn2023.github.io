@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 <p align="center">
   <a href="https://2023.ijcnn.org/">
     <img src="./logo_ss_ijcnn2023.png" />
